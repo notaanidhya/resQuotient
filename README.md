@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nexus — AI-Powered Candidate Screening System
 
 An intelligent, role-based technical interview system that generates contextual questions grounded in domain-specific knowledge using a RAG pipeline.
@@ -131,3 +132,7 @@ Open http://localhost:3000
 | Variable | Default | Description |
 |---|---|---|
 | `NEXT_PUBLIC_API_URL` | `http://localhost:8000` | Backend API base URL |
+=======
+# resQuotient
+resQuotient (resQ) is an AI-powered candidate screening platform for dynamic technical interviews. Utilizing a RAG pipeline and Google Gemini, it analyzes your resume against role-specific knowledge to stream highly tailored questions in real-time, concluding with structured performance assessments via a modern Next.js UI.
+>>>>>>> 4412a0e006d4c5080b2ba4070c4bb2484715f5b1
